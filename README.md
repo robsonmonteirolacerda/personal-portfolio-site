@@ -89,7 +89,7 @@ personal-portfolio-site/
 
 <!-- Screenshot placeholders -->
 
-<!-- ![Home Section](./images/screenshot-home.png) -->
+ ![Home Section](./images/screenshot-home.png)
 
 <!-- ![Projects Section](./images/screenshot-projects.png) -->
 
@@ -142,3 +142,4 @@ This project is part of my professional portfolio and represents my journey as a
 ---
 
 > "Simple, well-structured, and maintainable software scales better than complex solutions."
+
